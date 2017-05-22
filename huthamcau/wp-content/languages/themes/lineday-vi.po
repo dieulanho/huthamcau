@@ -1,0 +1,351 @@
+# Translation of LineDay in Vietnamese
+# This file is distributed under the same license as the LineDay package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-02-22 03:17:24+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/1.1.0-alpha\n"
+"Project-Id-Version: LineDay\n"
+
+#. Theme Name of the plugin/theme
+msgid "LineDay"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "An responsive elegant magazine style WordPress theme based on Twitter Bootstrap and Automattic Underscore(_s). Supporting Font Awesome, multi level dropdown navigation, Schema.org markup."
+msgstr ""
+
+#: searchform.php:10
+msgctxt "submit button"
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: searchform.php:8
+msgctxt "label"
+msgid "Search for:"
+msgstr "Tìm kiếm cho:"
+
+#: searchform.php:8
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Tìm kiếm &hellip;"
+
+#: search.php:14
+msgid "Search Results for: %s"
+msgstr "Kết quả tìm kiếm cho từ khóa: %s"
+
+#: library/widgets.php:7
+msgid "Sidebar"
+msgstr "Thanh bên"
+
+#: library/underscores/template-tags.php:124
+msgid "Archives"
+msgstr "Lưu trữ"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: library/underscores/template-tags.php:122
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: library/underscores/template-tags.php:118
+msgid "Archives: %s"
+msgstr "Lưu trữ: %s"
+
+#: library/underscores/template-tags.php:113
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Âm thanh"
+
+#: library/underscores/template-tags.php:115
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Tán gẫu"
+
+#: library/underscores/template-tags.php:109
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Đường dẫn"
+
+#: library/underscores/template-tags.php:111
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Trạng thái"
+
+#: library/underscores/template-tags.php:107
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Trích dẫn"
+
+#: library/underscores/template-tags.php:105
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Video"
+
+#: library/underscores/template-tags.php:103
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Hình ảnh"
+
+#: library/underscores/template-tags.php:99
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Trích đoạn bài viết"
+
+#: library/underscores/template-tags.php:101
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Bộ sưu tập"
+
+#: library/underscores/template-tags.php:96
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: library/underscores/template-tags.php:96
+msgid "Day: %s"
+msgstr "Ngày: %s"
+
+#: library/underscores/template-tags.php:94
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: library/underscores/template-tags.php:94
+msgid "Month: %s"
+msgstr "Tháng: %s"
+
+#: library/underscores/template-tags.php:92
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: library/underscores/template-tags.php:92
+msgid "Year: %s"
+msgstr "Năm: %s"
+
+#: library/underscores/template-tags.php:90
+msgid "Author: %s"
+msgstr "Tác giả: %s"
+
+#: library/underscores/template-tags.php:88
+msgid "Tag: %s"
+msgstr "Thẻ: %s"
+
+#: library/underscores/template-tags.php:86
+msgid "Category: %s"
+msgstr "Chuyên mục: %s"
+
+#: library/underscores/template-tags.php:64
+msgid "% Comments"
+msgstr "% bình luận"
+
+#: library/underscores/template-tags.php:64
+msgid "1 Comment"
+msgstr "1 bình luận"
+
+#: library/underscores/template-tags.php:64
+msgid "Leave a comment"
+msgstr "Viết bình luận"
+
+#. translators: used between list items, there is a space after the comma
+#: library/underscores/template-tags.php:47
+#: library/underscores/template-tags.php:54
+msgid ", "
+msgstr ", "
+
+#: library/underscores/extras.php:52
+msgid "Page %s"
+msgstr "Trang %s"
+
+#: library/lineday.php:339
+msgid "<i class=\"fa fa-caret-left\"></i>"
+msgstr ""
+
+#: library/lineday.php:345
+msgid "<i class=\"fa fa-caret-right\"></i>"
+msgstr ""
+
+#: library/nav.php:14
+msgid "The Primary Menu"
+msgstr ""
+
+#: library/setup.php:49
+msgid "Primary Menu"
+msgstr "Menu chính"
+
+#: library/lineday.php:334
+msgid "Post navigation"
+msgstr "Duyệt bài viết"
+
+#: library/lineday.php:313
+msgid "Password: "
+msgstr "Mật khẩu:"
+
+#: library/lineday.php:313
+msgid "Submit"
+msgstr "Lưu"
+
+#: library/lineday.php:312
+msgid "This content is password protected. To view it please enter your password below:"
+msgstr "Nội dung này được bảo mật. Hãy nhập mật khẩu để xem tiếp:"
+
+#: library/lineday.php:296
+msgid "Read More"
+msgstr "Đọc tiếp"
+
+#: library/lineday.php:277
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: library/lineday.php:276
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: library/lineday.php:145
+msgid "Your comment is awaiting moderation."
+msgstr "Bình luận của bạn đang chờ phản hồi."
+
+#: library/lineday.php:136
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s vào lúc %2$s"
+
+#: library/lineday.php:132
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">viết:</span>"
+
+#: library/lineday.php:81
+msgid "Your Website"
+msgstr ""
+
+#: library/lineday.php:90
+msgid "Your Comment Here ..."
+msgstr ""
+
+#: library/lineday.php:115
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: library/lineday.php:74
+msgid "Your Email"
+msgstr "Thư điện tử của bạn"
+
+#: library/lineday.php:80
+msgid "Website"
+msgstr "Trang Mạng"
+
+#: library/lineday.php:67
+msgid "Your Name"
+msgstr ""
+
+#: library/lineday.php:73
+msgid "Email"
+msgstr "Điện thư"
+
+#: library/lineday.php:66
+msgid "Author"
+msgstr "Người viết"
+
+#: image.php:64
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Tiếp <span class=\"meta-nav\">&rarr;</span>"
+
+#: image.php:63
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Previous"
+
+#: image.php:23
+msgid "Published on <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>"
+msgstr ""
+
+#: image.php:34 library/lineday.php:115 library/lineday.php:139
+#: library/underscores/template-tags.php:68
+msgid "Edit"
+msgstr "Sửa"
+
+#: footer.php:18
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: header.php:19
+msgid "Skip to content"
+msgstr "Chuyển đến phần nội dung"
+
+#: footer.php:16
+msgid "Proudly powered by %s"
+msgstr "Được xây dựng bởi %s"
+
+#. translators: %s: Name of current post
+#: content.php:30
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Tiếp tục đọc %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-page.php:16 content-single.php:24 content.php:37 image.php:55
+msgid "Pages:"
+msgstr "Trang:"
+
+#: content-none.php:24
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Không thấy nội dung tìm kiếm. Hãy thử tìm kiếm khác."
+
+#: content-none.php:19
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Rất tiếc, không có nội dung nào khớp với yêu cầu tìm kiếm của bạn. Hãy thử lại với các từ khóa khác."
+
+#: content-none.php:15
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Bạn đã sẵn sàng đăng bài viết đầu tiên chưa? <a href=\"%1$s\">Hãy bắt đầu tại đây</a>."
+
+#: content-none.php:9
+msgid "Nothing Found"
+msgstr "Không có kết quả"
+
+#: comments.php:39 comments.php:63
+msgid "Newer Comments &rarr;"
+msgstr "Các bình luận mới hơn &rarr;"
+
+#: comments.php:38 comments.php:62
+msgid "&larr; Older Comments"
+msgstr "&larr; Các bình luận cũ hơn"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One Response on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Responses on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+
+#: comments.php:36 comments.php:61
+msgid "Comment navigation"
+msgstr "Điều hướng bình luận"
+
+#. translators: %1$s: smiley
+#: 404.php:42
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Thử tìm kiếm trong lưu trữ hàng tháng. %1$s"
+
+#: 404.php:17
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+#: 404.php:25
+msgid "Most Used Categories"
+msgstr "Các mục được dùng nhiều nhất"
+
+#: 404.php:13
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Không tìm thấy trang này."
+
+#. Theme URI of the plugin/theme
+msgid "http://zacklive.com/lineday-responsive-magazine-wordpress-theme-bootstrap/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Zack"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://zacklive.com/"
+msgstr ""
